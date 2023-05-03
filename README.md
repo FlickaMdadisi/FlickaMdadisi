@@ -6,11 +6,11 @@
 ## 🚀 About Me
 Budding data analyst passionate about innovate problem solving to catalyze change in global development.
 - 🔭 I’m currently working on my _data analytics portfolio_ 
-- 🌱 I’m currently learning _MardDown_
+- 🌱 I’m currently learning _Markdown_
 
 ## :clipboard: GitHub Metrics 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=FlickaMdadisi&show_icons=true&theme=merko&bg_color=00000000" />
-<img align="center" width="300" height="200"  src="https://media.giphy.com/media/3oriNLCq45I9mdJK1y/giphy.gif" />
+<img align="right" width="300" height="200"  src="https://media.giphy.com/media/3oriNLCq45I9mdJK1y/giphy.gif" />
 
 <img align="left" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
