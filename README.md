@@ -14,7 +14,6 @@ Budding data analyst passionate about innovate problem solving to catalyze chang
 <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit" />
 <img align="left" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-<br>
 
 ## :clipboard: GitHub Metrics 
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=FlickaMdadisi&show_icons=true&theme=merko&bg_color=00000000" />
